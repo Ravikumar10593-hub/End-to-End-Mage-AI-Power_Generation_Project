@@ -1,0 +1,7 @@
+1. Load the data using the server name "LAPTOP-3I63B1LS"
+2. Create a column Plant_1 and Plant_2 in the POWER BI
+3. Power BI logo Gererator: https://creecros.github.io/simple_logo_gen/
+
+## Blue: 0a134d
+## orange text : d2d2aa
+## Orange header: e16d3c
